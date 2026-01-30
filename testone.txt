@@ -1,1 +1,2 @@
 this content from local repository
+this content from global repository
